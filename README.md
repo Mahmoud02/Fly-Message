@@ -16,10 +16,11 @@ So, I used Block with Repository Pattern to architecture the app.
 
 I used Streams in the app directly without using Third-Party libraries to gain experience in it.
 when you see the app files, you will find that:
-1-Screen/Widget
-2-Blocks
-3-Repository
-4-Database
+* 1-Screen/Widget
+* 2-Blocks
+* 3-Repository
+* 4-Database
+
 #### So let's talk first about Database Module
 - this module will contain the classes that deal with the database directly.
 - If you use Firebase as your back-end then you will create FirebaseClass that makes Firebase Operations.
