@@ -51,7 +51,7 @@ when you see the app files, you will find that:
 - Database returns the result to the repository then the repository sends the result to blockClass then blockClass will notify the screenClass about the result.
 - then screenClass takes the result and render it.
 
-## you may think that is too much code to do a simple thing, I agree with you, but in a large application Separation of concern will make your code so simple to understand and to refactor it. 
+### You may think that is too much code to do a simple thing, I agree with you, but in a large application Separation of concern will make your code so simple to understand and to refactor it. 
 
 #### Images from th app
 <img src="https://user-images.githubusercontent.com/18700494/104111236-4f39a400-52e8-11eb-9632-960e0498c6ed.png" width="400" height="600"/>
