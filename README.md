@@ -54,11 +54,11 @@ when you see the app files, you will find that:
 ### You may think that is too much code to do a simple thing, I agree with you, but in a large application Separation of concern will make your code so simple to understand and to refactor it. 
 
 #### Images from th app
-<img src="https://user-images.githubusercontent.com/18700494/104111236-4f39a400-52e8-11eb-9632-960e0498c6ed.png" width="400" height="600"/>
-<img src="https://user-images.githubusercontent.com/18700494/104111235-4e087700-52e8-11eb-9077-a0073ae684f3.png" width="400" height="600"/>
-<img src="https://user-images.githubusercontent.com/18700494/104111238-5bbdfc80-52e8-11eb-8a0d-306a06d393a7.png" width="400" height="600"/>
-<img src="https://user-images.githubusercontent.com/18700494/104111242-65476480-52e8-11eb-82d1-b8b76e513542.png" width="400" height="600"/>
-<img src="https://user-images.githubusercontent.com/18700494/104111245-77c19e00-52e8-11eb-97df-7f6292df0cad.png" width="400" height="600"/>
+<img src="https://user-images.githubusercontent.com/18700494/104111236-4f39a400-52e8-11eb-9632-960e0498c6ed.png" width="400" height="700"/>
+<img src="https://user-images.githubusercontent.com/18700494/104111235-4e087700-52e8-11eb-9077-a0073ae684f3.png" width="400" height="700"/>
+<img src="https://user-images.githubusercontent.com/18700494/104111238-5bbdfc80-52e8-11eb-8a0d-306a06d393a7.png" width="400" height="700"/>
+<img src="https://user-images.githubusercontent.com/18700494/104111242-65476480-52e8-11eb-82d1-b8b76e513542.png" width="400" height="700"/>
+<img src="https://user-images.githubusercontent.com/18700494/104111245-77c19e00-52e8-11eb-97df-7f6292df0cad.png" width="400" height="700"/>
 
 
 
